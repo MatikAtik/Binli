@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Binli" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2F8941</item>
+        <item name="colorPrimaryVariant">#0F3E2A</item>
+        <item name="colorSecondary">#2F8941</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

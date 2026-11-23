@@ -1,0 +1,40 @@
+Reference photographs
+
+TrashNet: Gary Thung and Mindy Yang.
+https://github.com/garythung/trashnet
+Material labels describe this dataset; municipal acceptance rules still vary.
+
+MIT License
+Copyright (c) 2017 Gary Thung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Standard white computer keyboard keys: Steve Karg, public domain.
+https://commons.wikimedia.org/wiki/File:Standard_white_computer_keyboard_keys.jpg
+
+2023 Lost Vape Ursa Nano Pod: Jacek Halicki, CC BY-SA 4.0.
+https://commons.wikimedia.org/wiki/File:2023_Lost_Vape_Ursa_Nano_Pod.jpg
+
+Flerbar M Mango Ice-9467: © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons).
+https://commons.wikimedia.org/wiki/File:Flerbar_M_Mango_Ice-9467.jpg
+
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Commons photos are resized and JPEG re-encoded to bound memory and download size.
+These adapted photographs remain available under their respective original licenses.
+No endorsement by their authors is implied.
